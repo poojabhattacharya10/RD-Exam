@@ -1,0 +1,4 @@
+questionNo,questionDescription,optionA,optionB,optionC,optionD,numberOfCorrectAnswer,correctAnswer
+1,What is capital of India,Delhi,Bombay,Chennai,Kolkata,1,optionA
+2,What is Name of Prime Minister,Mr. Rohit,Mr. Narendra Modi,Mr. Nodi,Mr. Yogi,1,optionB
+3,What is capital of Utter pradesh,Delhi,Bombay,Chennai,Lucknow,1,optionC

@@ -1,0 +1,13 @@
+questionNo,questionDescription,optionA,optionB,optionC,optionD,numberOfCorrectAnswer,correctAnswer
+1,What is the city of lakes,Delhi,Bombay,Udai Pur,Kolkata,1,optionB
+2,What is Name of Prime Minister,Mr. Rohit,Mr. Narendra Modi,Mr. Nodi,Mr. Yogi,1,optionB
+3,What is capital of Utter pradesh,Delhi,Bombay,Chennai,Lucknow,1,optionC
+4,"what will be the out of following program
+void main() {
+int sum = 0;
+for(int I =0;i<10;i++){
+sum = sum + I;
+}
+printf(""sum = %d"", sum);
+getch();
+}",10,55,12,60,1,optionB
